@@ -18,6 +18,13 @@ public class MenuGUI {
     public void setPuntos(double puntos) {
         this.puntos = puntos;
     }
+
+    @Override
+    public String toString() {
+        return "MenuGUI{" + "puntos=" + puntos + '}';
+    }
+    
+    
     
     
     
