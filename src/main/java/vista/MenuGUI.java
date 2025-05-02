@@ -9,5 +9,5 @@ package vista;
  * @author Jason
  */
 public class MenuGUI {
-    
+    private double puntos;
 }
