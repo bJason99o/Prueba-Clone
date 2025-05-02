@@ -10,4 +10,15 @@ package vista;
  */
 public class MenuGUI {
     private double puntos;
+
+    public double getPuntos() {
+        return puntos;
+    }
+
+    public void setPuntos(double puntos) {
+        this.puntos = puntos;
+    }
+    
+    
+    
 }
