@@ -10,6 +10,7 @@ package vista;
  */
 public class MenuGUI {
     private double puntos;
+    private int total;
 
     public double getPuntos() {
         return puntos;
